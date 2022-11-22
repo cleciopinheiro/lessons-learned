@@ -6,6 +6,7 @@
 
 body {
   background-color: rgb(253, 251, 251);
+  font-family: sans-serif;
 }
 
 header {
@@ -43,14 +44,36 @@ img {
   margin-top: 60px;
 }
 
-section ol li {
-  margin-left: 40px;
+ol, ul {
+  margin-left: 80px;
+  text-decoration: none;
+  line-height: 1.5;
+  font-size: 20px;
 }
 
-section ul li {
-  margin-left: 40px;
+.licoes {
+  display: flex;
+  margin-top: 100px;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 5%;
+}
+
+aside, article {
+  width: 49%;
+  font-size: 16px;
+  padding: 10px 20px;
+  background-color: rgb(216, 216, 216);
+  border-radius: 5px;
+  margin-bottom: 20px;
 }
 
 footer {
   text-align: center;
+  padding: 10px;
+  background-color: green;
+  color: white;
 }
