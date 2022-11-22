@@ -50,3 +50,7 @@ section ol li {
 section ul li {
   margin-left: 40px;
 }
+
+footer {
+  text-align: center;
+}
