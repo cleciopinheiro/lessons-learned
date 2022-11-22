@@ -32,7 +32,7 @@ a {
   color: white;
 }
 
-section{
+section {
   margin: 20px 5%;
   border-radius: 100%;
   display: flex;
@@ -86,11 +86,11 @@ table {
 }
 
 td , th {
-  border: 1px solid #ddd;
+  border: 1px solid rgb(209, 209, 209);
   text-align: left;
   padding: 8px;
 }
 
 tr:nth-child( even ) {
-  background-color: #ddd;
+  background-color: rgb(209, 209, 209);
 }
