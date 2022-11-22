@@ -1,6 +1,6 @@
 * {
-  margin: 0px;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 
@@ -15,7 +15,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  top: 0px;
+  top: 0;
   position: fixed;
   width: 100%;
   padding: 10px 5%;
@@ -33,7 +33,7 @@ a {
 }
 
 section{
-  margin: 20px 5% 20px 5%;
+  margin: 20px 5%;
   border-radius: 100%;
   display: flex;
 }
@@ -44,7 +44,7 @@ img {
   margin-top: 60px;
 }
 
-ol, ul {
+ol , ul {
   margin-left: 80px;
   text-decoration: none;
   line-height: 1.5;
@@ -62,7 +62,7 @@ ol, ul {
   padding: 10px 5%;
 }
 
-aside, article {
+aside , article {
   width: 49%;
   font-size: 16px;
   padding: 10px 20px;
@@ -85,12 +85,12 @@ table {
   margin-top: 80px;
 }
 
-td, th {
-  border: 1px solid #dddddd;
+td , th {
+  border: 1px solid #ddd;
   text-align: left;
   padding: 8px;
 }
 
-tr:nth-child(even) {
-  background-color: #dddddd;
+tr:nth-child( even ) {
+  background-color: #ddd;
 }
