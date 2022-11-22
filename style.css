@@ -42,3 +42,11 @@ img {
   border-radius: 10px;
   margin-top: 60px;
 }
+
+section ol li {
+  margin-left: 40px;
+}
+
+section ul li {
+  margin-left: 40px;
+}
