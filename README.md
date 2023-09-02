@@ -21,4 +21,4 @@ Para executar o projeto faça o clone deste repositório usando o comando abaixo
 
 ---
  
-Desenvolvido por [Clécio Pinheiro]([/www.linkedin.com/in/cleciopinheirodev/), © 2022.
+Desenvolvido por [Clécio Pinheiro]([www.linkedin.com/in/cleciopinheirodev), © 2022.
